@@ -50,7 +50,7 @@
     
 # Applications:
      • Remote Keyless entry by providing lock and unlock to the  doors and windows it will give a huge relief to owners
-       to check wether they properly locked the car doors and windows.
+       to check whether they properly locked the car doors and windows.
      • Remote keyless entry systems will provide car owners with a degree of convenience while making the task of 
        physically inserting a key unnecessary.
      • A passive keyless entry system uses advanced technology to take vehicle accessibility to a higher level.
@@ -60,11 +60,11 @@
 # 4 W's and 1 H:
      
 ## WHAT:
-It is used to lock and unlock the door without key.
+It is an Keyless Remote used to lock and unlock the doors.
 ## When:
-It is used in Cars to lock or unlock.
+It can be available when you are in the range of the car signal.
 ## Who :
-It is useful for everyone for example people use for locking and unlocking the car door.
+It is useful for everyone.
 ## Where:
 It is used mainly in cars.
 
