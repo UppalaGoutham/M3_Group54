@@ -45,4 +45,29 @@
     • Financial scenery around the globe and positive deals position raised interest of the part.
  ## Threats:
     • Could be hacked
-    • Failure of Machine/Remote.
+    • Failure of Machine/Remote
+    • Key fob cloning
+    
+# Applications:
+     • Remote Keyless entry by providing lock and unlock to the  doors and windows it will give a huge relief to owners
+       to check wether they properly locked the car doors and windows.
+     • Remote keyless entry systems will provide car owners with a degree of convenience while making the task of 
+       physically inserting a key unnecessary.
+     • A passive keyless entry system uses advanced technology to take vehicle accessibility to a higher level.
+     • By using the Bi-directional communication it can prevent possible outcomes of stoping the car thief.
+     • The Key fob system provided another level of security to the Remote Keyless entry system. 
+     
+# 4 W's and 1 H:
+     
+## WHAT:
+It is used to lock and unlock the door without key.
+## When:
+It is used in Cars to lock or unlock.
+## Who :
+It is useful for everyone for example people use for locking and unlocking the car door.
+## Where:
+It is used mainly in cars.
+
+## How:
+It is useful for lock and unlock the door by pressing the button on remote
+    
